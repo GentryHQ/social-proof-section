@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Solution URL: [GitHub Repo](https://github.com/GentryHQ/social-proof-section)
+- Live Site URL: [GitHub Pages](https://gentryhq.github.io/social-proof-section/)
 
 ## My process
 
